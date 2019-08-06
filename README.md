@@ -31,5 +31,5 @@ Ao clicar em uma música para escuta-la ela irá ser reproduzida com sua visuali
 - Importar a base de dados bd_gtmusic.sql (mysql)
 - Configurar o arquivo de conexão, localizado em model/conexao.php
 - Login do adm (Email: admin@admin.com, Senha: 123123)
-- Usuário (Sem usuários para testes, para criar um basta ir em "Login/Cadastro"
+- Usuário (Sem usuários para testes, para criar um basta ir em "Login/Cadastro")
 - Músicas (O sistema vem com 7 músicas para testes, todos os direitos das músicas são dos próprios artistas, referenciados no sistema, são eles (Two Feet, Eagles, The Eagles, Eric Clapton, Bob Acri, Europe, Bad Wolves))
