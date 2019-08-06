@@ -1,6 +1,6 @@
 # Gt Music - Sistema de streaming de música
 
-O Gt Music é um sistema de streaming de música desenvolvido em php (orientado a objetos), js, html e css, com o padrão MVC, onde o usuário pode escutar suas músicas e criar playlists com elas, além de também poder compartilhar suas playlists com seus amigos pelo sistema e/ou por um link.
+O Gt Music é um sistema de streaming de música desenvolvido em php (orientado a objetos), js, html e css, com o padrão MVC, onde o usuário pode escutar suas músicas e criar playlists com elas, além de também poder compartilhar suas playlists com seus amigos pelo sistema.
 
 ## Usuário
 
