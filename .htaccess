@@ -1,0 +1,12 @@
+#definir tamanho máximo de POST
+php_value post_max_size 1000000M
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+ErrorDocument 400 /view/erros/erro400.html
+ErrorDocument 401 /view/erros/erro_401.html
+ErrorDocument 403 /view/erros/erro_403.html
+ErrorDocument 404 /view/erros/erro404.html
+ErrorDocument 500 /view/erros/erro_500.html
